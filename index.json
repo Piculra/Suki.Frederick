@@ -1,0 +1,47 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "suki.frederick",
+    "packId": "suki.frederick",
+    "packCredits": "Chibi created by FredbearFazbear_1983, content pack assembled by Piculra",
+    "packName": "Suki.frederick",
+    "source": "https://www.reddit.com/user/FredbearFazbear_1983/comments/vcizlx/adventures_of_the_literature_club_archive/",
+    "authors": [
+        "Frederick",
+        "Piculra"
+    ],
+    "name": "Suki",
+    "internalId": "Suki",
+    "chibi": "./Chibi.png",
+    "styles": [
+        {
+            "name": "default",
+            "label": "Default"
+        }
+    ],
+    "heads": {
+        "default": [
+            "./1.png",
+            "./2.png",
+            "./3.png",
+            "./4.png",
+            "./5.png",
+            "./6.png",
+            "./7.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "normal",
+            "style": "default",
+            "compatibleHeads": [
+                "default"
+            ],
+	    "left": [
+		"./bodyl.png"
+	    ],
+	    "right": [
+		"./bodyr.png"
+	    ]
+        }
+    ]
+}
